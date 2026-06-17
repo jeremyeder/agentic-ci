@@ -19,8 +19,7 @@
   "packageRules": [
     {
       "matchPackageNames": [
-        "agentic-ci",
-        "claude-code"
+        "agentic-ci"
       ],
       "minimumReleaseAge": "0 days"
     }
